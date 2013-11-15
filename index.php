@@ -3,7 +3,7 @@
   <head>
     <title>Title</title>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
-     <link rel="stylesheet" type="text/css" href="assets/remark.css" /> 
+     <link rel="stylesheet" type="text/css" href="files/remark.css" /> 
   </head>
   <body>
     <div id="source" style="display:none">
@@ -21,8 +21,8 @@
 		}
 		?>
     </div>
-	<script src="assets/jquery-2.0.3.min.js"></script>
-    <script src="assets/remark.min.js" type="text/javascript">
+	<script src="files/jquery-2.0.3.min.js"></script>
+    <script src="files/remark.min.js" type="text/javascript">
     </script>
     <script type="text/javascript">
 	

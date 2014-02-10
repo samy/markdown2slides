@@ -14,7 +14,7 @@ h1, h2, h3 {
 }
 
 h1 {
-    font-size: 4em;
+    font-size: 3em;
     margin: 0.4em 0 0;
 }
 
@@ -166,4 +166,15 @@ blockquote {
     border-left: 1px solid Black; /* Une bordure noir d'1 pixel à gauche */
 	padding-left:10px; /* On écarte la bordure de 10 pixels du texte */
 	font-style:italic; /* En italique */
+}
+
+strong {
+	font-weight:bold; /* Pour le gras */
+}
+
+@media print {
+	.remark-slide-scaler {
+		width:80% !important;
+		font-size: 77%;
+	  }
 }

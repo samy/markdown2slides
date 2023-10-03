@@ -21,8 +21,8 @@
 		}
 		?>
     </div>
-	<script src="files/jquery-2.0.3.min.js"></script>
-    <script src="files/remark.min.js" type="text/javascript">
+<script src="https://code.jquery.com/jquery-3.7.1.min.js" integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=" crossorigin="anonymous"></script>
+<script src="files/remark.min.js" type="text/javascript">
     </script>
     <script type="text/javascript">
 	
